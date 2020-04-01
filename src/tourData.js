@@ -4,31 +4,27 @@ export const tourData = [
     city: "new york",
     img: "./img/newyork.jpeg",
     name: "new york bridge tour",
-    info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+    info: "Salut Bobusse !"
   },
   {
     id: 2,
     city: "paris",
     img: "./img/paris.jpeg",
     name: "paris lights tour",
-    info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+    info: "Paris c'est nul l'homme c'est bien"
   },
   {
     id: 3,
     city: "london",
     img: "./img/london.jpeg",
     name: "london royal palace tour",
-    info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+    info: "Tommy Shelby"
   },
   {
     id: 4,
     city: "tokyo",
     img: "./img/tokyo.jpeg",
     name: "tokyo sushi tour",
-    info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+    info: "Tekken Yakuza Mankidison"
   }
 ];
